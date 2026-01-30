@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashmimourya" alt="rashmimourya" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mourya__rashmi" target="blank"><img src="https://img.shields.io/twitter/follow/mourya__rashmi?logo=twitter&style=for-the-badge" alt="rashmimourya1507" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rashmim0urya" target="blank"><img src="https://img.shields.io/twitter/follow/rashmim0urya?logo=twitter&style=for-the-badge" alt="rashmim0urya" /></a> </p>
 
-- 📫 How to reach me **rashmimourya2006@gmail.com**
+- 📫 How to reach me **rashmimourya01@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -17,13 +17,13 @@
 <p align="left">
 <a href="https://codepen.io/rashmimourya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rashmimourya" height="30" width="40" /></a>
 <a href="https://dev.to/rashmimourya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rashmimourya" height="30" width="40" /></a>
-<a href="https://twitter.com/mourya__rashmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mourya__rashmi" height="30" width="40" /></a>
+<a href="https://twitter.com/rashmim0urya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mourya__rashmi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rashmimourya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashmimourya" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/27099691" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27099691" height="30" width="40" /></a>
 <a href="https://codesandbox.io/u/rashmimourya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="rashmimourya" height="30" width="40" /></a>
 <a href="https://kaggle.com/rashmimourya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rashmimourya" height="30" width="40" /></a>
-<a href="https://facebook.com/rashmimourya1507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rashmimourya1507" height="30" width="40" /></a>
-<a href="https://instagram.com/mourya__rashmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mourya__rashmi" height="30" width="40" /></a>
+<a href="https://facebook.com/rashmim0urya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rashmimourya1507" height="30" width="40" /></a>
+<a href="https://instagram.com/rashmim0urya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mourya__rashmi" height="30" width="40" /></a>
 <a href="https://dribbble.com/rashmimourya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="rashmimourya" height="30" width="40" /></a>
 <a href="https://www.behance.net/rashmi_mourya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rashmi_mourya" height="30" width="40" /></a>
 <a href="https://hashnode.com/@rashmimourya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="rashmimourya" height="30" width="40" /></a>
